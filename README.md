@@ -1,17 +1,10 @@
 
 #Dollars to cents converter
-Dollars to cents converter
-Program to convert dollar to cents with the cents of:
+ Conversor de dólares em centavos Conversor de dólares em centavos Programa para converter dólares em centavos com os centavos de:
 
-Quarters (25 ¢)
-Dimes (10 ¢)
-Nickels (5 ¢)
-Pennies (1 ¢)
-How to use
-Clone the repository 
+Quartos (25 ¢) Dimes (10 ¢) Nickels (5 ¢) Pennies (1 ¢) Como usar Clone o repositório
 
-
-Open the Dollars-to-cents-converter folder
+Abra a pasta Dollars-to-cents-converter Execute o arquivo
 Run the index.html file
 https://github.com/desenvolvedorIcotrade/Dollars-to-cents-converter/archive/%23dollar.zip
 
